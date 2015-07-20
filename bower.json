@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "homepage": "https://github.com/gouch/to-title-case",
   "authors": [
-    "David Gouch <http://davidgouch.com> (script)"
+    "David Gouch <http://davidgouch.com> (script)",
     "Sam Saint-Pettersen <s.stpettersen+github@gmail.com> (package)"
   ],
   "description": "A JavaScript method for intelligently converting strings to title case",
